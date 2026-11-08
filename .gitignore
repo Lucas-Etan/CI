@@ -1,0 +1,20 @@
+# Python environments and caches
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# Documents not tracked in this repository
+*.docx
+~$*
+
+# Editor and local files
+.idea/
+.vscode/
+
+# Operating-system files
+Thumbs.db
+Desktop.ini
